@@ -1,4 +1,4 @@
-package dramar.springframework.springpetclinic.model;
+package model;
 
 public class Person {
     public String getFirstName() {
