@@ -4,9 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringpetclinicApplication {
+public class SpringPetClinicApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringpetclinicApplication.class, args);
+        SpringApplication.run(SpringPetClinicApplication.class, args);
     }
 }

@@ -1,4 +1,4 @@
-package model;
+package dramar.springframework.springpetclinic.model;
 
 public class PetType {
     public String getName() {
