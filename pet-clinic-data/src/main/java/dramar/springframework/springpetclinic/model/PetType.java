@@ -1,6 +1,6 @@
 package dramar.springframework.springpetclinic.model;
 
-public class PetType {
+public class PetType extends BaseEntity {
     public String getName() {
         return name;
     }
